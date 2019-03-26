@@ -1,3 +1,5 @@
+***This is just a fork of my project, and this repository contains what I handed in.***
+
 # Crowdie
 
 > Vaporwave, vapor, vapor!
@@ -20,7 +22,7 @@ An simple ethereum-based crowdsaling platform implementation
 ### Step-by-Step Instruction
 1. **Clone this repository**  
     ```sh
-    git clone https://github.com/yuoa/Crowdie.git
+    git clone https://github.com/jio-hw/Crowdie.git
     cd Crowdie
     ```
 2. **Install npm packages**  
